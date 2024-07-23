@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e727fd5c7e453ba4fb8a975d52a102fc, type: 3}
+  m_Name: Question4
+  m_EditorClassIdentifier: 
+  question: Question 4 - What is the use of PlayerPrefs in Unity?
+  answers:
+  - A) To handle real-time multiplayer networking.
+  - B) To save and load game data between sessions.
+  - C) To manage physics calculations.
+  - D) To render 3D models.
+  correctAnswerIndex: 1
